@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 
+
+## Searching for the perfect if/else for life. 💻💡
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
